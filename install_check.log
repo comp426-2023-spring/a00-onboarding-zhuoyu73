@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin macbookdembp.wireless-1x.unc.edu 21.1.0 Darwin Kernel Version 21.1.0: Wed Oct 13 17:33:23 PDT 2021; root:xnu-8019.41.5~1/RELEASE_X86_64 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/local/bin/git] git version 2.39.0
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Oct  1 2021 22:47:36)
+CURL:	[/usr/bin/curl] curl 7.77.0 (x86_64-apple-darwin21.0) libcurl/7.77.0 (SecureTransport) LibreSSL/2.8.3 zlib/1.2.11 nghttp2/1.42.0
+NODE:	[/Users/macbookpro/.nvm/versions/node/v18.14.0/bin/node] v18.14.0
